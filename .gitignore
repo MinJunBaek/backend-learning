@@ -6,6 +6,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea
+backend-learning.iml
 
 ### Eclipse ###
 .apt_generated

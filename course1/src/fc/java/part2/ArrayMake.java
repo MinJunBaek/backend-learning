@@ -11,7 +11,7 @@ public class ArrayMake {
 
         float[] f = new float[5];
 
-//        fc.java.part2.Book b1, b2, b3;
-//        fc.java.part2.Book[] b = new fc.java.part2.Book [3];
+//        fc.java.fc.java.part2.Book b1, b2, b3;
+//        fc.java.fc.java.part2.Book[] b = new fc.java.fc.java.part2.Book [3];
     }
 }
