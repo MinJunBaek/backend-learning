@@ -1,4 +1,4 @@
-package fc.java.part3; // package 선언문(소속)
+package fc.java.model; // package 선언문(소속)
 // import java.lang.*; String을 사용하려면 선언해야하지만 기본적으로 자바는 java.lang을 import함.
 
 public class BookDTO {
